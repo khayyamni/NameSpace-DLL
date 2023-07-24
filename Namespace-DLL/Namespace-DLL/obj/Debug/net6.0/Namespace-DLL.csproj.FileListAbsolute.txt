@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\bin\Debug\net6.0\Namespace-DLL.exe
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\bin\Debug\net6.0\Namespace-DLL.deps.json
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\bin\Debug\net6.0\Namespace-DLL.runtimeconfig.json
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\bin\Debug\net6.0\Namespace-DLL.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\bin\Debug\net6.0\Namespace-DLL.pdb
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\obj\Debug\net6.0\Namespace-DLL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\obj\Debug\net6.0\Namespace-DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\obj\Debug\net6.0\Namespace-DLL.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\obj\Debug\net6.0\Namespace-DLL.AssemblyInfo.cs
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\obj\Debug\net6.0\Namespace-DLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\obj\Debug\net6.0\Namespace-DLL.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\obj\Debug\net6.0\refint\Namespace-DLL.dll
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\obj\Debug\net6.0\Namespace-DLL.pdb
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\obj\Debug\net6.0\Namespace-DLL.genruntimeconfig.cache
+C:\Users\user\Desktop\C#\HomeTasksMix\Namespace-DLL\Namespace-DLL\obj\Debug\net6.0\ref\Namespace-DLL.dll
